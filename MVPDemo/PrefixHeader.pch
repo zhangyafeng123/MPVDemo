@@ -1,0 +1,21 @@
+//
+//  PrefixHeader.pch
+//  MVPDemo
+//
+//  Created by linjianguo on 2018/5/18.
+//  Copyright © 2018年 com.justsee. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "Header.h"
+#import <AFNetworking.h>
+#import <MJExtension.h>
+#import <UIImageView+WebCache.h>
+#import "NetWorkManager.h"
+#import <SVProgressHUD.h>
+#import "UserInfoManager.h"
+#import <SDCycleScrollView.h>
+#import <MJRefresh.h>
+#endif /* PrefixHeader_pch */
